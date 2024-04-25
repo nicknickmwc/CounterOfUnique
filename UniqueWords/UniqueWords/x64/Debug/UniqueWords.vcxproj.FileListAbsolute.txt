@@ -1,0 +1,4 @@
+C:\Users\Nikolai\Desktop\C#_C++_Projects\UniqueWords\UniqueWords\UniqueWords\x64\Debug\UniqueWords.vcxproj.AssemblyReference.cache
+C:\Users\Nikolai\Desktop\C#_C++_Projects\UniqueWords\UniqueWords\UniqueWords\x64\Debug\UniqueWords.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Nikolai\Desktop\C#_C++_Projects\UniqueWords\UniqueWords\UniqueWords\x64\Debug\UniqueWords.MainForm.resources
+C:\Users\Nikolai\Desktop\C#_C++_Projects\UniqueWords\UniqueWords\UniqueWords\x64\Debug\UniqueWords.vcxproj.GenerateResource.cache
